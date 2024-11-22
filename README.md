@@ -135,8 +135,7 @@ set_output_delay -max 0.8 [get_ports "count"] -clock [get_clocks "clk"]
 ```
 
 #### Synthesis RTL Schematic :
-![Screenshot (156)](https://github.com/user-attachments/assets/27f3318f-7996-4373-8129-405e471a86a8)
-
+![Screenshot 2024-11-11 113909](https://github.com/user-attachments/assets/52aebc42-f5ca-4529-997f-a23b08d645d9)
 
 #### Area report:
 ![image](https://github.com/user-attachments/assets/8aaa87bf-d90d-473c-bfd6-eecb3647dbfa)
